@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFinalBoss",
-    "path": "sprites/sFinalBoss/sFinalBoss.yy",
+    "name": "sFinalBossAttack",
+    "path": "sprites/sFinalBossAttack/sFinalBossAttack.yy",
   },
   "spriteMaskId": null,
   "visible": true,
